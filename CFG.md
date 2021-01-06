@@ -20,12 +20,12 @@
     <br>
     <br>
     <a target="blank"
-    <a href="https://bit.ly/2Xcm5PV">Animators</a    
+    <a href="https://bit.ly/2Xcm5PV">Animator</a    
     <br>
     <br>
     <br>
     <a target="blank"
-    <a href="https://bit.ly/38eoTlS">1nsurgentSTAR</a
+    <a href="https://bit.ly/38eoTlS">1nsurgentSTARs</a
     <br>
     <br>
     <br>          
