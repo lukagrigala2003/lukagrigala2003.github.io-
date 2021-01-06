@@ -25,7 +25,7 @@
     <br>
     <br>
     <a target="blank"
-    <a href="https://bit.ly/38eoTlS">1nsurgentSTARsa</a
+    <a href="https://bit.ly/38eoTlS">1nsurgentSTARs</a
     <br>
     <br>
     <br>          
