@@ -5,7 +5,7 @@
       </head>
     <body style="background-color:tomato;size:150px"
     <body>
-        <img src="cslogo.jpg"
+        <img src="https://static.wikia.nocookie.net/cswikia/images/2/2a/Cs_logo.png/revision/latest?cb=20160716095455"
     <br>
     <br>
         <img src="72975551.png"
